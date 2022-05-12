@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: gemini-python
+Version: 0.2.1
+Summary: A python client for the Gemini API and Websocket
+Home-page: https://github.com/mtusman/gemini-python
+Author: Mohammad Usman
+Author-email: m.t.usman@hotmail.com
+License: MIT
+Keywords: gemini,bitcoin,bitcoin-exchange,ethereum,ether,BTC,ETH,gemini-exchange
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3
+Requires-Dist: requests
+Requires-Dist: pytest
+Requires-Dist: websocket
+Requires-Dist: websocket-client
+
+UNKNOWN
+
+
